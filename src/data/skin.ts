@@ -1,0 +1,1 @@
+export const skin = { name: 'bolt', heroImage: '/hero.webp', heroAlt: 'Plumber working on pipes under a home', fontsHref: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700&display=swap', themeColor: '#0f172a', wave: true } as const;
