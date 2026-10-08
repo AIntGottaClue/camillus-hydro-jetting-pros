@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://camillushydrojetting.prosapp.site/sitemap.xml
